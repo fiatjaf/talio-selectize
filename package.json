@@ -1,0 +1,26 @@
+{
+  "name": "talio-selectize",
+  "version": "0.0.2",
+  "description": "selectize packaged for talio and mercury.",
+  "main": "index.js",
+  "keywords": [
+    "virtual-dom",
+    "dom-delegator",
+    "selectize",
+    "combobox",
+    "talio",
+    "mercury",
+    "widget"
+  ],
+  "author": {
+    "name": "Giovanni T. Parra"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^10.2.4",
+    "coffeeify": "^1.1.0"
+  },
+  "scripts": {
+    "prepublish": "coffee -c --bare *.coffee"
+  }
+}

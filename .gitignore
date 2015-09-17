@@ -1,0 +1,6 @@
+subpackages
+node_modules
+*.swo
+*.swp
+*.js
+build
