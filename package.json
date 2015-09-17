@@ -1,6 +1,6 @@
 {
   "name": "talio-selectize",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "selectize packaged for talio and mercury.",
   "main": "index.js",
   "keywords": [
